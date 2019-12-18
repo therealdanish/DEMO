@@ -1,0 +1,5 @@
+# Node modules for the app
+node_modules
+
+#Visual Studio Code extensions
+.vscode
